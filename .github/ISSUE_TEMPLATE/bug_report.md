@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Crea un reporte de error para ayudarnos a mejorar
-title: ":bug Descripción breve"
+title: "🐛 Descripción breve"
 labels: bug
 assignees: ''
 ---
